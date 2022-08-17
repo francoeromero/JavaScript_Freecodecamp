@@ -1,4 +1,4 @@
-/* 10. Declara una variable de solo lectura con la palabra clave const
+/* Declara una variable de solo lectura con la palabra clave const
 
 ejercicio
 Cambia el código para que todas las variables se declaren con let o const. 
