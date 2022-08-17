@@ -1,6 +1,9 @@
-//Concatena cadenas con el operador "más igual"
+/*
+Declara variables de cadena
 
-/*   TAmbien el con += se concatena, la primer dale un espacio en el final,  */
+Crea dos nuevas variables de cadena: myFirstName y myLastName y asígnales los valores de tu nombre y apellido, respectivamente.
 
-let myStr = "This is the first sentence. ";
-myStr += "This is the second sentence.";
+*/
+
+var myFirstName = "Fran"
+var myLastName = "Romero"

@@ -1,8 +1,8 @@
-/* -Explora las diferencias entre las palabras claves var y let
-
-ejercicio
-Actualiza el código para que solo utilice la palabra clave let.
+/*
+Almacenar valores con el operador de asignación
+Asigna el valor 7 a la variable a.
 
 */
-let catName = "Oliver";
-let catSound = "Meow!";
+
+var a;
+a = 7;

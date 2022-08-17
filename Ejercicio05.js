@@ -1,5 +1,8 @@
-//Concatena cadenas con el operador "mas" 
+/*
+Inicializa variables con el operador de asignación
 
-/* Para concatenar tener en cuenta los espacios, entre el + y un espacio en el final dentro de la primera o segunda cadena*/
+Define una variable a con var e inicialízala con un valor de 9.
 
-const myStr = "This is the start. " + "This is the end."; 
+*/
+
+var a = 9;

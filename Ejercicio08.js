@@ -1,12 +1,15 @@
-//Agrega variables a cadenas 
+/* 8. Comprendiendo la sensibilidad de mayúsculas en las variables
 
-/*
-se pueden sumar dos variables con += 
-
-Establece someAdjective a una cadena de al menos 3 caracteres y añádelo a myStr usando el operador +=.
-
+ejercicio
+Modifica las declaraciones y asignaciones existentes para que sus nombres usen camelCase.
+No crees ninguna variable nueva.
 */
+// Declaración de variables
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
 
-const someAdjective = "awesome";
-let myStr = "Learning to code is ";
-myStr += someAdjective;
+// Asignación de variables
+studlyCapVar = 10;
+properCamelCase= "A String";
+titleCaseOver = 9000;
