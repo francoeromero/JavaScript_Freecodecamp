@@ -3,6 +3,8 @@
 ejercicio
 Modifica las declaraciones y asignaciones existentes para que sus nombres usen camelCase.
 No crees ninguna variable nueva.
+
+ver video: https://www.youtube.com/watch?v=j7Rx7SWMtLQ&t=16s
 */
 // Declaración de variables
 var studlyCapVar;
