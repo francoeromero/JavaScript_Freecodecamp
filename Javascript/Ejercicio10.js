@@ -9,6 +9,7 @@ Además, renombra variables declaradas con const para adaptarse a las prácticas
 No debes cambiar las palabras asignadas a las variables.
 
 */
+//ver video: https://www.youtube.com/watch?v=ELmyNdQygtc
 
 const FCC = "freeCodeCamp"; // Cambia esta línea
 let fact = "is cool!"; // Cambia esta línea
