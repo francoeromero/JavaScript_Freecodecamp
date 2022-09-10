@@ -8,4 +8,6 @@ FirstLine
 ThirdLine
 */
 
+//ver video: https://www.youtube.com/watch?v=ND7k8FhRR28
+
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 

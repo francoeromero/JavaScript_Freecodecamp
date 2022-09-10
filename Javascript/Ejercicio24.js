@@ -3,8 +3,8 @@
 Asignación compuesta con división aumentada
 
 Convierte las tareas de a, b, y c para utilizar el operador /=.
-
 */
+//ver video https://www.youtube.com/watch?v=EtK9BkBKyvg
 
 let a = 48;
 let b = 108;
