@@ -47,16 +47,16 @@ const recordCollection = {
      //hasOwnProperty significa "existe la propiedad .. " y lo que esta dentro, es lo que va a buscar si existe
     //  hasOwnProperty, es booleano, si encuentra la propiedad es True sino es False. Entonces se pone  == false para decir "si no se encontro en el objeto la propiedad 'tracks"
     else if (prop == 'tracks' && records[id].hasOwnProperty('tracks') == false){
-      records[id][prop] = [];
-      records[id][prop].push(value); 
+      records[id][prop] = []; // voy a crear una propiedad 'tracks' que tenga un arreglo vacio 'tracks' : []
+      records[id][prop].push(value); //agrego el valor a ese arreglo vacio 
     } 
-     // 4
+     // 4 Si prop es tracks y value no es una cadena vacía
     else if (prop == 'tracks' && value != ''){
-        records[id][prop].push(value); 
+        records[id][prop].push(value); //el push agrega al final, y agrego un valor al arreglo   
     } 
-     // 5
+     // 5 Si value es una cadena vacía
     else if(value == ''){
-        delete records[id][prop];
+        delete records[id][prop]; //borramos la propiedad
     }
 
 
