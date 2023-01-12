@@ -55,6 +55,50 @@ function multiplyAll(arr) {
   }
   return product;
   // se retorna el valor
+  multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
+
+  /*
+  El resultado de la función multiplyAll([[1, 2], [3, 4], [5, 6, 7]]) sería 5040. El producto final se calcula multiplicando todos los elementos de cada subarreglo dentro del arreglo principal.
+
+1 * 2 = 2
+2 * 3 = 6
+6 * 4 = 24
+24 * 5 = 120
+120 * 6 = 720
+720 * 7 = 5040
+
+Es importante mencionar que si el arreglo principal estuviera vacío o no contuviera ningun subarreglo el resultado sería 1 debido a que se estableció el valor inicial de product como 1.
+  
+  */
 
 
+
+
+/*
+ ---------------------------------------------------------------
+ EJEMPLO MAS SIMPLE
+  ---------------------------------------------------------------
+
+
+Ejemplo 
+
+let sum = 0;
+for (let i = 1; i <= 3; i++) {
+  for (let j = 1; j <= 3; j++) {
+    sum += i * j;
+  }
+}
+console.log(sum);
+// El resultado sería 36 (1*1 + 1*2 + 1*3 + 2*1 + 2*2 + 2*3 + 3*1 + 3*2 + 3*3
+
+
+
+
+
+
+
+
+
+
+ */
 
