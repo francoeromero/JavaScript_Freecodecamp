@@ -54,6 +54,7 @@ function multiplyAll(arr) {
     }
   }
   return product;
+}
   // se retorna el valor
   multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
 
@@ -90,6 +91,7 @@ for (let i = 1; i <= 3; i++) {
 }
 console.log(sum);
 // El resultado sería 36 (1*1 + 1*2 + 1*3 + 2*1 + 2*2 + 2*3 + 3*1 + 3*2 + 3*3
+
 
 
 
