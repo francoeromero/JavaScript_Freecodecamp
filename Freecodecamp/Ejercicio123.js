@@ -14,4 +14,4 @@ const {today: highToday, tomorrow: highTomorrow} = HIGH_TEMPERATURES;
 
 //esquema
 
-// const {propiedad: nuevaVariable, propiedad: nuevaVariable} = variableConSuPropiedadesyValores
+// const {propiedad: nuevaVariable, propiedad: nuevaVariable} = OBJETO
