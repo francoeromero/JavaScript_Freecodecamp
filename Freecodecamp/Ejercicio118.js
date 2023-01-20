@@ -8,7 +8,7 @@ const myConcat = (arr1, arr2) => { // aplique la funcion flecha con parametros
   console.log(myConcat([1, 2], [3, 4, 5]));
 
 
-  //esquema 
+
 /*
 
 ESQUEMA SIN PARAMETROS
